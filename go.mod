@@ -1,4 +1,5 @@
-module detect
+module  github.com/ksecurity45/detect
+
 
 go 1.19
 
