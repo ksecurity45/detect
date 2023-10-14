@@ -3,5 +3,5 @@ Detect
 
 # install
 ```
-go install -v github.com/ksecurity45/wappalyzergo/cmd/update-fingerprints@latest
+go install -v github.com/ksecurity45/detect@latest
 ```
